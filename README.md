@@ -1,8 +1,8 @@
-Hi, my name is Muhammad Saddam Pradana, I'm 20 y.o :wave:
+Hi, my name is Muhammad Saddam Pradana :wave:
 
 - :books: : I'm students of Software Engineering in University.
 - :house: : Based in Jakarta.
-- :seedling: : I'm currently learning Javascript,Laravel and Little bit of Android.
+- :seedling: : I'm currently learning Javascript and Laravel
 - :video_game: : My hobby is playing games.
 
 ## 🌐 Socials:
