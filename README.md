@@ -3,6 +3,7 @@ Hi, my name is Muhammad Saddam Pradana :wave:
 - :books: : I'm students of Software Engineering in University.
 - :house: : Based in Jakarta.
 - :seedling: : I'm currently learning Javascript and Laravel
+- [![wakatime](https://wakatime.com/badge/user/696532b4-7cc4-42aa-8d93-6cf70545349c.svg)](https://wakatime.com/@696532b4-7cc4-42aa-8d93-6cf70545349c)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saddampradana32) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/FrosteeSky) 
