@@ -2,7 +2,7 @@ Hi, my name is Muhammad Saddam Pradana :wave:
 
 - :books: : I'm students of Software Engineering in University.
 - :house: : Based in Jakarta.
-- :seedling: : I'm currently learning Javascript and Laravel
+- :seedling: : Still learning Laravel, React.js, Android (Java Native)
 - [![wakatime](https://wakatime.com/badge/user/696532b4-7cc4-42aa-8d93-6cf70545349c.svg)](https://wakatime.com/@696532b4-7cc4-42aa-8d93-6cf70545349c)
 
 ## 🌐 Socials:
