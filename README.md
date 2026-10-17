@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Logistics Company as Mobile Developer<br>🌱 I’m currently learning Next.js, Kotlin + Jetpack Compose, Flutter
+🔭 I Build mobile and web applications. Android development with Kotlin and Java, Jetpack Compose on the UI side, and web work with Next.js and Laravel. 
 
 
 ## 🌐 Socials:
